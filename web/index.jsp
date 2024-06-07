@@ -13,19 +13,16 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Home</title>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
-        <link rel="stylesheet" href="Style.css">
+        <link rel="stylesheet" href="Styles/Style.css">
 
     </head>
     <body>
-        <header >
-            <img src="Images/LogoUCR.png" alt="Logotipo de la Universidad de Costa Rica">
+        <header>
+            <img src="Images\LogoUCR.png" alt="Universidad de Costa Rica">
             <img src="Images/SSurHorizo.png" alt="Logotipo de la Sede del Sur">
-             <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial">
-            
-            
-        </header>
-        
-        <img src="Images/LogoUCR.png" alt="Logotipo de la Universidad de Costa Rica">
+            <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial">
+           
+        </header>       
         <h1>AQUI VA LA INFORMACION </h1>
         <footer class="bg-primary text-white text-center py-3">
             <p>&copy; 2024 Universidad XYZ. Todos los derechos reservados.</p>
