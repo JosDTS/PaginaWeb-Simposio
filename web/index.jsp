@@ -33,10 +33,20 @@
         </header>
 
         <main>
+
             <div class="background-section">
                 
             </div>
                 
+
+            <div class="golfito-gallery">
+                <img src="Images/ClubCentro.png" alt="Club Centro">
+                <img src="Images/Edificio principal.png" alt="Edificio Principal">
+                <img src="Images/La bomba.png" alt="La Bomba">
+                <img src="Images/Letrero.png" alt="Letrero">
+            </div>
+
+
             <h1> Hola Bienvenido al simposio</h1>
 
         </main>

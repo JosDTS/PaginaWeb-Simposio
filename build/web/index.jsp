@@ -33,10 +33,7 @@
         </header>
 
         <main>
-            <div class="background-section">
-                
-            </div>
-                
+
             <h1> Hola Bienvenido al simposio</h1>
 
         </main>

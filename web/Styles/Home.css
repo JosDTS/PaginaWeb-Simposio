@@ -28,8 +28,8 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
+
     background-color: #dcf2fc;
-    
 }
 
 .custom-header{
@@ -97,6 +97,7 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
+
 .background-section{
     background-image: url("../Images/Edificio principal.png");
     background-size: 100% 300px;
@@ -126,6 +127,8 @@ footer {
        }al.png
        
    }
+}
+
 .login-container input[type="password"] {
     display: flex;
     align-items: center;
