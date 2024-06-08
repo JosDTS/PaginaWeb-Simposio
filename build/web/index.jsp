@@ -16,6 +16,7 @@
 
     </head>
     <body>
+
         <header class="custom-header">
             <div>
                 <img src="Images/LogoUCR.png" alt="Universidad de Costa Rica" class=" logo-ucr">
@@ -41,6 +42,7 @@
             <h1> Hola Bienvenido al simposio</h1>
 
         </main>
+
 
         <footer class="bg-primary text-white text-center py-3">
             <p>&copy; 2024 Universidad XYZ. Todos los derechos reservados.</p>

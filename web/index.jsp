@@ -16,6 +16,15 @@
 
     </head>
     <body>
+
+        <header>
+            <img src="Images\LogoUCR.png" alt="Universidad de Costa Rica">
+            <img src="Images/SSurHorizo.png" alt="Logotipo de la Sede del Sur">
+            <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial">
+            <a href="Login.jsp">Iniciar sesion</a>
+        </header>       
+        <h1>AQUI VA LA INFORMACION </h1>
+
         <header class="custom-header">
             <div>
                 <img src="Images/LogoUCR.png" alt="Universidad de Costa Rica" class=" logo-ucr">
@@ -41,6 +50,7 @@
             <h1> Hola Bienvenido al simposio</h1>
 
         </main>
+
 
         <footer class="bg-primary text-white text-center py-3">
             <p>&copy; 2024 Universidad XYZ. Todos los derechos reservados.</p>
