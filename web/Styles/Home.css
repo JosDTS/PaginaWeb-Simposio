@@ -28,12 +28,8 @@ body{
     margin: 0;
     padding: 0;
     width: 100%;
-    background-color: #80a9ba;
-    /*    background-image: url("../Images//ClubCentro.png");*/
-    /*    background-position: top left;
-        background-repeat: no-repeat; background-size: cover;
-        background-position: top left;
-        background-repeat: no-repeat;*/
+
+    background-color: #dcf2fc;
 }
 
 .custom-header{
@@ -101,31 +97,38 @@ footer {
     text-align: center;
     padding: 1rem 0;
 }
-.golfito-gallery {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+
+.background-section{
+    background-image: url("../Images/Edificio principal.png");
+    background-size: 100% 300px;
+    background-position: center top;
+    height: 260px;
     padding: 20px;
-    background-color: #f9f9f9;
-    overflow-x: auto;
+   animation: change-image 30s infinite;
+}
+   @keyframes change-image{
+       0%{
+           background-image: url("../Images/Edificio principal.png")
+       }
+       20%{
+           background-image: url("../Images/La bomba.png")
+       }
+       40%{
+           background-image: url("../Images/Letrero.png")
+       }
+       60%{
+           background-image: url("../Images/ClubCentro.png")
+       }
+       80%{
+           background-image: url("../Images/Sede.png")
+       }
+       100%{
+           background-image: url("../Images/Letrero2.png")
+       }al.png
+       
+   }
 }
 
-.golfito-gallery img {
-    max-width: 200px;
-    height: auto;
-    margin: 0 10px;
-    border: 2px solid #ddd;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    transition: transform 0.3s ease-in-out;
-}
-
-.golfito-gallery img:hover {
-    transform: scale(1.1);
-}
-
-
-.login-container input[type="text"],
 .login-container input[type="password"] {
     display: flex;
     align-items: center;
