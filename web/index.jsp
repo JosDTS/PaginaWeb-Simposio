@@ -17,14 +17,6 @@
     </head>
     <body>
 
-        <header>
-            <img src="Images\LogoUCR.png" alt="Universidad de Costa Rica">
-            <img src="Images/SSurHorizo.png" alt="Logotipo de la Sede del Sur">
-            <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial">
-            <a href="Login.jsp">Iniciar sesion</a>
-        </header>       
-        <h1>AQUI VA LA INFORMACION </h1>
-
         <header class="custom-header">
             <div>
                 <img src="Images/LogoUCR.png" alt="Universidad de Costa Rica" class=" logo-ucr">
@@ -32,12 +24,12 @@
                 <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial" class=" logo-carrera">
             </div>
             <nav>
-                <a href = "#">Login</a>
+                <a href = "Login.jsp">Login</a>
                 <a href = "#">Registro</a>
                 <a href = "#">Contacto</a>
                 <a href = "#">ADN</a>
             </nav>
-        </header
+        </header>
 
         <main>
             <div class="golfito-gallery">

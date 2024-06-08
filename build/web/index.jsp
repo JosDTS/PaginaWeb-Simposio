@@ -24,12 +24,12 @@
                 <img src="Images/SSur-CIEhorizo.png" alt="Logo de la carrera de Informatica Empresarial" class=" logo-carrera">
             </div>
             <nav>
-                <a href = "#">Login</a>
+                <a href = "Login.jsp">Login</a>
                 <a href = "#">Registro</a>
                 <a href = "#">Contacto</a>
                 <a href = "#">ADN</a>
             </nav>
-        </header
+        </header>
 
         <main>
             <div class="golfito-gallery">
